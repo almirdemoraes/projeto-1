@@ -1,3 +1,3 @@
-<<<<<<< HEAD
-Projeto teste git com foco no aprendizado da tecnlogia
+
+Projeto de teste git com foco no aprendizado da tecnlogia
 
